@@ -6,4 +6,5 @@ entity description: Q15_1.txt denote corresponding entity description of entity 
 
 codex_l _open/codex_m_open contain train set and test set of  CoDex_Mul_L/CoDex_Mul_M.
 
-Everyone can access the datasets from Google Cloud Drive.
+Everyone can access the datasets from Google Cloud Drive:
+https://drive.google.com/drive/folders/1yWKkHtjHoObBihVJW80283ViRJ2kZFQt?usp=share_link
