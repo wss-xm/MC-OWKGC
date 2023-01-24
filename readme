@@ -1,0 +1,9 @@
+Because of the file size limitation, we only provide part of the dataset as the sample. 
+We will make the complete dataset publicly available after the publication of the paper.
+
+entity images: Q15_0.jpg Q15_1.jpg Q15_2.jpg denote corresponding images of entity Q15
+entity description: Q15_1.txt denote corresponding entity description of entity Q15
+
+codex_l _open/codex_m_open contain train set and test set of  CoDex_Mul_L/CoDex_Mul_M.
+
+Everyone can access the datasets from Google Cloud Drive.
